@@ -1,0 +1,20 @@
+For Task 1:
+python version 3.8.8
+pandas verison 1.2.4
+numpy version 1.20.1
+matplotlib
+open cv version 4.0.1
+os
+sklearn verison 0.24.1
+keras version 2.4.3
+
+For Task 2:
+tensorflow version 2.3.0
+PIL version 8.2.0
+glob
+keras
+python version 3.7.10
+opencv version 4.1.2
+numpy version 1.19.5
+sklearn version 0.22.2.post1
+matplotlib version 3.2.2
