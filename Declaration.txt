@@ -1,0 +1,10 @@
+For Task 1:
+
+The work submitted is completely our own.
+Only the dataset provided at github was
+used for training a CNN model.
+
+For Task 2:
+
+An external dataset was used: "https://www.kaggle.com/clarencezhao/handwritten-math-symbol-dataset"
+Apart from the dataset used, all the work submitted is our own.
